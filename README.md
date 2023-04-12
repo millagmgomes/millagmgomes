@@ -1,4 +1,5 @@
-### Hello World!
+### Hello World! 
+### Meu nome é Milla Gomes, sejam bem-vindos ao meu Github 🐈
 
 - Cursando ciencia da computação, segundo semestre
 - Estudando desenvolvimento Web full stack 
