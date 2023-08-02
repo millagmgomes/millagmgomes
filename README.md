@@ -4,7 +4,7 @@
 - Cursando ciencia da computação, segundo semestre
 - Estudando desenvolvimento Web full stack 
 - Pronomes: ela/dela
-- Busco oportunidades de estagio na area de TI
+- Estagiaria de Desenvolvimento de software.
 
 <div>
   <a href="https://github.com/millagmgomes">
