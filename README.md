@@ -1,10 +1,9 @@
 ### Hello World! 
 ### Meu nome é Milla Gomes, sejam bem-vindos ao meu Github 🐈
 
-- Cursando ciencia da computação, segundo semestre
-- Estudando desenvolvimento Web full stack 
+- Ciencia da computação.
+- Software developer
 - Pronomes: ela/dela
-- Estagiaria de Desenvolvimento de software.
 
 <div>
   <a href="https://github.com/millagmgomes">
