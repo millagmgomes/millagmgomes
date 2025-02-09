@@ -1,9 +1,8 @@
-### Hello World! 
-### Meu nome é Milla Gomes, sejam bem-vindos ao meu Github 🐈
+### Welcome to my Github 🖥️🐈
 
-- Ciencia da computação.
-- Software developer
-- Pronomes: ela/dela
+- Computer Science.
+- Software Developer.
+- Pronouns: She/Her.
 
 <div>
   <a href="https://github.com/millagmgomes">
